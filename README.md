@@ -70,6 +70,11 @@
 
 ### ➕ Some things that I like: technology, astronomy, anime, music and food
   
-![GJ](./images/GJ.gif)
+![figure description](./images/GJ.gif){width=250}
+<!-- ![GJ](./images/GJ.gif)
+
 
 [![stackoverflow image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg =48x48)](https://pt.stackoverflow.com/users/289106/gj-01126799)
+
+<!-- image with link and size -->
+[j jjj  =48x48](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg) =48x48](https://pt.stackoverflow.com/users/289106/gj-01126799) -->
