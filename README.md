@@ -74,4 +74,4 @@
 
 [![stackoverflow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](<https://pt.stackoverflow.com/users/289106/gj-01126799>{ width=48px,height:48px }
 
-[![stackoverflow image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](https://pt.stackoverflow.com/users/289106/gj-01126799){ width=48px,height:48px }
+[![stackoverflow image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg){ width=48px,height:48px }](https://pt.stackoverflow.com/users/289106/gj-01126799)
