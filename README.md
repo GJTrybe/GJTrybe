@@ -79,4 +79,4 @@ Among my main skills, the following has prominence:
 
 ### ➕ Some things that I like: technology, astronomy, anime, music and food
 
-![GJ][./images/GJ.gif]
+![GJ](./images/GJ.gif)
