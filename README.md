@@ -375,5 +375,4 @@
 ### 📫 Contact [gj.theveloper@gmail.com](mailto:ggj.theveloper@gmail.com)
 
 ### ➕ Some things that I like: technology, astronomy, anime, music and food
-  
-![GJ](./images/GJ.gif)
+
