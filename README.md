@@ -338,17 +338,16 @@
 ---
 
 ### 🛠 Devops
-  
+
 <a
     href="https://www.gnu.org/software/bash/"
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            src="./images/bash.svg"
             alt="bash"
             width="48"
             height="48"
-            style={fill: bisque}
         />
 </a>
 <a
