@@ -348,6 +348,7 @@
             alt="bash"
             width="48"
             height="48"
+            style={fill: bisque}
         />
 </a>
 <a
