@@ -15,18 +15,7 @@
 ---
 
 ### 🛠 Programming Languages
-  
-<a
-    href="https://www.w3schools.com/cs/"
-    target="_blank"
-    rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp"
-            width="48"
-            height="48"
-        />
-</a>
+
 <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
     target="_blank"
@@ -125,7 +114,7 @@
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             width="48"
             height="48"
             alt="React"
@@ -174,7 +163,7 @@
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+            src="https://icongr.am/devicon/express-original.svg?size=128&color=79a08e"
             width="48"
             height="48"
             alt="Express"
@@ -196,7 +185,7 @@
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             width="48"
             height="48"
             alt="MongoDB"
@@ -207,7 +196,7 @@
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             width="48"
             height="48"
             alt="MySQL"
@@ -222,6 +211,18 @@
             width="48"
             height="48"
             alt="NodeJS"
+        />
+</a>
+<a
+    href="https://sequelize.org/"
+    target="_blank"
+    rel="noreferrer">
+        <img
+            title="Sequelize"
+            alt="Sequelize"
+            height="30"
+            width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
         />
 </a>
 
@@ -287,6 +288,58 @@
 
 ---
 
+### 🛠 Testing
+
+<a
+    href="https://jestjs.io"
+    target="_blank"
+    rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+            alt="jest"
+            width="40"
+            height="40"
+        />
+</a>
+
+<a
+    href="https://mochajs.org"
+    target="_blank"
+    rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+            alt="mocha"
+            width="40"
+            height="40"
+        />
+</a>
+
+<a
+    href="https://testing-library.com/"
+    target="_blank"
+    rel="noreferrer">
+        <img
+            src="https://testing-library.com/img/octopus-128x128.png"
+            alt="RTL"
+            width="40"
+            height="40"
+        />
+</a>
+
+<a
+    href="https://www.chaijs.com"
+    target="_blank"
+    rel="noreferrer">
+        <img
+            src="https://www.chaijs.com/img/chai-logo-small.png"
+            alt="chai"
+            width="40"
+            height="40"
+        />
+</a>
+
+---
+
 ### 🛠 Devops
   
 <a
@@ -342,27 +395,7 @@
 ---
 
 ### 🛠 Socials
-  
-<a
-    href="https://discord.com/users/GJ#3241"
-    target="_blank"
-    rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-            width="48"
-            height="48"
-        />
-</a>
-<a
-    href="https://www.github.com/GJTrybe"
-    target="_blank"
-    rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-            width="48"
-            height="48"
-        />
-</a>
+
 <a
     href="https://www.linkedin.com/in/gabrieljuliodefaria"
     target="_blank"
@@ -391,4 +424,3 @@
 ### 📫 Contact [gj.theveloper@gmail.com](mailto:ggj.theveloper@gmail.com)
 
 ### ➕ Some things that I like: technology, astronomy, anime, music and food
-
