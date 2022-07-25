@@ -11,7 +11,9 @@
 **Troubleshooting issues related to Technical Support on Windows;**
 
 **Knowledge in the use of tools for Web Development;**
-  
+
+---
+
 ### 🛠 Programming Languages
   
 <a
@@ -69,7 +71,9 @@
             alt="TypeScript"
         />
 </a>
-  
+
+---
+
 ### 🛠 Frontend
   
 <a
@@ -160,7 +164,9 @@
             alt="TailwindCSS"
         />
 </a>
-  
+
+---
+
 ### 🛠 Backend and Database
   
 <a
@@ -218,7 +224,9 @@
             alt="NodeJS"
         />
 </a>
-  
+
+---
+
 ### 🛠 Software
   
 <a
@@ -276,7 +284,9 @@
             height="48"
         />
 </a>
-  
+
+---
+
 ### 🛠 Devops
   
 <a
@@ -301,7 +311,9 @@
             height="48"
         />
 </a>
-  
+
+---
+
 ### 🛠 Other
   
 <a
@@ -326,7 +338,9 @@
             height="48"
         />
 </a>
-  
+
+---
+
 ### 🛠 Socials
   
 <a
@@ -369,7 +383,9 @@
             height="48"
         />
 </a>
-  
+
+---
+
 ### 🌎 Jacareí - SP - BRAZIL
 
 ### 📫 Contact [gj.theveloper@gmail.com](mailto:ggj.theveloper@gmail.com)
