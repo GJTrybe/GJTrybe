@@ -220,8 +220,8 @@
         <img
             title="Sequelize"
             alt="Sequelize"
-            height="30"
-            width="40"
+            height="48"
+            width="48"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
         />
 </a>
@@ -297,11 +297,10 @@
         <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
             alt="jest"
-            width="40"
-            height="40"
+            width="48"
+            height="48"
         />
 </a>
-
 <a
     href="https://mochajs.org"
     target="_blank"
@@ -309,11 +308,10 @@
         <img
             src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
             alt="mocha"
-            width="40"
-            height="40"
+            width="48"
+            height="48"
         />
 </a>
-
 <a
     href="https://testing-library.com/"
     target="_blank"
@@ -321,11 +319,10 @@
         <img
             src="https://testing-library.com/img/octopus-128x128.png"
             alt="RTL"
-            width="40"
-            height="40"
+            width="48"
+            height="48"
         />
 </a>
-
 <a
     href="https://www.chaijs.com"
     target="_blank"
@@ -333,8 +330,8 @@
         <img
             src="https://www.chaijs.com/img/chai-logo-small.png"
             alt="chai"
-            width="40"
-            height="40"
+            width="48"
+            height="48"
         />
 </a>
 
