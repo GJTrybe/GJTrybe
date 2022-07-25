@@ -328,7 +328,7 @@
     target="_blank"
     rel="noreferrer">
         <img
-            src="https://www.chaijs.com/img/chai-logo-small.png"
+            src="https://www.chaijs.com/img/chai-logo.png"
             alt="chai"
             width="48"
             height="48"
