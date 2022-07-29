@@ -1,7 +1,5 @@
 # Hi 👋 My name is Gabriel Julio (GJ)
 
-TESTE
-
 ## 💻 Full Stack Web Development Student
 
 **In my career, I was already responsible of data to production managers, with this experience I got responsibility and organization.**
